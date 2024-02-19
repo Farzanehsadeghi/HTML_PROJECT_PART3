@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    direction: rtl;
+}
+h2{
+    text-align: right; 
+    width: 95% ;
+    direction: rtl;
+}
+h3{
+    text-align: left; 
+    width: 95% ;
+    direction: rtl; 
+}
+pre{
+    color:darkgoldenrod;
+    font-size: x-large;
+    direction: rtl;
+    text-align: center;
+}
+@font-face {
+    font-family: Nazanin-Bold;
+    font-style: normal;
+    font-weight: 100;
+    src:
+      url("Nazanin-Bold.woff2") format("woff2") ;
